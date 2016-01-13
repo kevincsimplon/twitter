@@ -1,0 +1,121 @@
+html, body {
+    width: 100%;
+    margin: 0;
+}
+
+body {
+    background: #fff;
+    color: #292f33;
+    font-size: 14px;
+    line-height: 18px;
+    overflow-y: scroll;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+div {
+    display: block;
+}
+.container {
+    position: relative;
+    width: 890px;
+    margin: 0 auto;
+}
+
+
+
+global-nav-inner{
+  background: #fff;
+height: 46px;
+    overflow: hidden;
+}
+
+ul{
+  margin-left: 147px;
+  list-style: none;
+
+}
+
+li{
+  display: inline-block;
+}
+
+a{
+  color: inherit;
+font-size: 13px;
+  line-height: 1;
+  text-decoration: none;
+    padding: 0 14px 0 4px;}
+
+.navimage{
+width: 18px;
+height: 16px;
+}
+
+
+
+
+.front-bg {
+    position: fixed;
+    width: 200%;
+    height: 200%;
+    left: -50%;
+    background: #000;
+}
+
+.front-bg img {
+    display: none;
+    margin: auto;
+    min-width: 50%;
+    min-height: 50%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+img {
+    border: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.centrage{
+  position: relative;
+  margin-top: 80px;
+display: block;
+text-align: left;
+margin-left: 342px;
+}
+h1 {
+
+
+    color: #fff;
+    font-size: 38px;
+    line-height: 44px;
+    margin-bottom: 30px;
+    text-shadow: none;
+    text-rendering: optimizeLegibility;
+}
+
+p{
+margin: 0;
+  color: #fff;
+  font-size: 21px;
+line-height: 31px;
+text-shadow: none;
+}
